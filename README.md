@@ -26,3 +26,9 @@ It contains all the css files and background image.
 * Enter the username and password to access the homepage page.
 * In that page, enter any popular movie of your choice in the text field.
 * Then you'll get a few suggestions listed below.
+
+## Dataset
+* tmdb_5000_movies
+* tmbd_5000_credits 
+
+These datasets are taken from kaggle and merged.
