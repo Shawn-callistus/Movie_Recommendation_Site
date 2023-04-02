@@ -10,8 +10,17 @@ The repository includes the following files:
 ### Templates:
 It contain all the html files.
 * index.html: A HTML file that serves as the first page i.e the register page.
+![Screenshot 2023-04-02 155028](https://user-images.githubusercontent.com/116349435/229347132-f040536d-e117-4a77-bf3c-fb64bdb15fe5.png)
+
+
 * success.html: A HTML file that serves as the login page. If they already have an account, this page is opened.
+
+![Screenshot 2023-04-02 155042](https://user-images.githubusercontent.com/116349435/229347143-410eca6c-435d-4f8a-9627-13a2d6c68642.png)
+
 * pred.html: A HTML file which is the home page and predicts a few suggestions based on the input provided by the user.
+![Screenshot 2023-04-02 155055](https://user-images.githubusercontent.com/116349435/229347147-c2633ed5-34fe-473d-ac5a-4449b65cb7f0.png)
+
+
 ### Static:
 It contains all the css files and background image.
    * css.css and pred.css : CSS files that contains the styles for the HTML pages in the application. It is used to format and style the HTML elements present in             index.html, success.html, and pred.html.
